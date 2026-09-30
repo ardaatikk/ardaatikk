@@ -89,3 +89,24 @@ Imbalanced machine learning pipeline for stroke classification using clinical an
 - GitHub: [@ardaatikk](https://github.com/ardaatikk)
 - LinkedIn: [Arda Atik](https://www.linkedin.com/in/arda-atik/)
 - Email: [ardacematik@gmail.com](mailto:ardacematik@gmail.com)
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ardaatikk/ardaatikk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ardaatikk/ardaatikk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/ardaatikk/ardaatikk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
