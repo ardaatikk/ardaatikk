@@ -43,6 +43,21 @@ Deep learning pipeline for breast cancer metastasis classification in lymph node
 
 ---
 
+### ⚙️ AI4I Machine Failure Prediction
+
+End-to-end machine learning system for predicting industrial machine failures from operational and sensor measurements.
+
+- Random Forest with validation-optimized decision threshold
+- Feature engineering and leakage-safe ML pipeline
+- F1 Score: **92.63%**
+- ROC-AUC: **98.69%**
+- FastAPI inference service
+- 24 automated tests and GitHub Actions CI
+
+[View Repository](https://github.com/ardaatikk/ai4i-machine-failure-prediction)
+
+---
+
 ### 🧪 Glass Bottle Inspection
 
 Explainable computer vision pipeline for detecting geometric defects in glass bottles.
