@@ -43,6 +43,23 @@ Deep learning pipeline for breast cancer metastasis classification in lymph node
 
 ---
 
+### 💳 Fraud Detection ML API
+
+End-to-end machine learning system for detecting fraudulent transactions using historical customer and terminal behavior.
+
+- Leakage-aware behavioral feature engineering
+- Chronological train / validation / test evaluation
+- HistGradientBoosting classifier
+- PR-AUC: **92.87%**
+- F1 Score: **90.77%**
+- FastAPI inference service
+- Dockerized deployment
+- 45 automated tests and GitHub Actions CI
+
+[View Repository](https://github.com/ardaatikk/fraud-detection-ml-api)
+
+---
+
 ### ⚙️ AI4I Machine Failure Prediction
 
 End-to-end machine learning system for predicting industrial machine failures from operational and sensor measurements.
@@ -69,21 +86,6 @@ Explainable computer vision pipeline for detecting geometric defects in glass bo
 - Automated testing and CI
 
 [View Repository](https://github.com/ardaatikk/glass-bottle-inspection)
-
----
-
-### 🧠 Stroke Prediction
-
-Imbalanced machine learning pipeline for stroke classification using clinical and demographic features.
-
-- Class-weighted Logistic Regression
-- Stratified 5-fold cross-validation
-- PR-AUC based model selection
-- Stroke recall: **80.00%**
-- 15 automated tests
-- GitHub Actions CI
-
-[View Repository](https://github.com/ardaatikk/stroke-prediction)
 
 ---
 
