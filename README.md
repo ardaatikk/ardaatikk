@@ -75,17 +75,18 @@ End-to-end machine learning system for predicting industrial machine failures fr
 
 ---
 
-### 🧪 Glass Bottle Inspection
+### 🧍 Ergonomic Posture Monitor
 
-Explainable computer vision pipeline for detecting geometric defects in glass bottles.
+Real-time computer vision system for personalized ergonomic posture monitoring using a standard webcam.
 
-- Classical computer vision
-- Scale-normalized geometric measurements
-- Explainable defect classification
-- Synthetic benchmark accuracy: **98.83%**
-- Automated testing and CI
+- MediaPipe Pose and Face Landmarkers
+- Personalized posture calibration
+- Real-time multi-feature posture assessment
+- Actionable live feedback and session analytics
+- Persistent JSONL session logging
+- 170 automated tests and GitHub Actions CI
 
-[View Repository](https://github.com/ardaatikk/glass-bottle-inspection)
+[View Repository](https://github.com/ardaatikk/ergonomic-posture-monitor)
 
 ---
 
