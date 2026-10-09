@@ -97,9 +97,10 @@ Real-time computer vision system for personalized ergonomic posture monitoring u
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,git,github,linux,vscode&perline=10" />
 </p>
 
-**Data & ML:** NumPy, pandas, scikit-learn, PyTorch, OpenCV  
+**Data & ML:** NumPy, pandas, scikit-learn, PyTorch, OpenCV, Captum  
 **Databases & Tools:** SQL, Git, GitHub Actions, Docker  
-**Focus Areas:** Machine Learning, Computer Vision, Explainable AI, Data Processing
+**Focus Areas:** Machine Learning, Computer Vision, Explainable AI (XAI), Data Processing  
+**ML Techniques:** Grad-CAM, Integrated Gradients, Cross-Validation
 
 ---
 
