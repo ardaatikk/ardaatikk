@@ -30,14 +30,15 @@
 
 ### 🧬 Histopathology Cancer Detection
 
-Deep learning pipeline for breast cancer metastasis classification in lymph node histopathology images.
+Deep learning pipeline for breast cancer metastasis classification in lymph node histopathology images, featuring slide-independent evaluation and explainable AI.
 
 - ResNet-18 transfer learning
-- Grad-CAM explainability
-- ROC-AUC: **96.63%**
-- Recall: **97.67%**
-- 16 automated tests
-- GitHub Actions CI
+- Slide-independent 5-fold cross-validation
+- Out-of-fold accuracy: **94.57%**
+- Mean ROC-AUC: **0.9819 ± 0.0100**
+- Grad-CAM & Integrated Gradients explainability
+- Prediction error analysis (TP / TN / FP / FN)
+- 44 automated tests and GitHub Actions CI
 
 [View Repository](https://github.com/ardaatikk/histopathology-cancer-detection)
 
