@@ -44,6 +44,21 @@ Deep learning pipeline for breast cancer metastasis classification in lymph node
 
 ---
 
+### 🎬 Human Action Recognition
+
+Research-oriented deep learning pipeline for classifying human actions from video and pose landmarks, featuring controlled experiments and model stability analysis.
+
+- CNN-LSTM, Pose-LSTM, and Mean-Pooled MLP architectures
+- Subject-independent evaluation on the KTH Human Actions Dataset
+- Pose detection and feature ablation studies
+- Temporal order sensitivity and multi-seed stability analysis
+- Held-out test accuracy: **80.83%** | Macro F1: **0.8061**
+- 131 automated tests, GitHub Actions CI, and Docker support
+
+[View Repository](https://github.com/ardaatikk/human-action-recognition)
+
+---
+
 ### 💳 Fraud Detection ML API
 
 End-to-end machine learning system for detecting fraudulent transactions using historical customer and terminal behavior.
@@ -58,21 +73,6 @@ End-to-end machine learning system for detecting fraudulent transactions using h
 - 45 automated tests and GitHub Actions CI
 
 [View Repository](https://github.com/ardaatikk/fraud-detection-ml-api)
-
----
-
-### ⚙️ AI4I Machine Failure Prediction
-
-End-to-end machine learning system for predicting industrial machine failures from operational and sensor measurements.
-
-- Random Forest with validation-optimized decision threshold
-- Feature engineering and leakage-safe ML pipeline
-- F1 Score: **92.63%**
-- ROC-AUC: **98.69%**
-- FastAPI inference service
-- 24 automated tests and GitHub Actions CI
-
-[View Repository](https://github.com/ardaatikk/ai4i-machine-failure-prediction)
 
 ---
 
